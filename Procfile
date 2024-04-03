@@ -1,1 +1,1 @@
-worker: python3 copyright.py
+worker: php bot.php
